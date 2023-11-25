@@ -6,7 +6,7 @@ Does not affect boats, as they work properly in vanilla Minecraft!
 
 ## Showcase
 
-In both examples the player am **sitting in a minecart moving the mouse in a circle**.
+In both examples the player is **sitting in a minecart moving the mouse in a circle**.
 
 | No Mod                                                                               | With the Mod                                                                  |
 |--------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
