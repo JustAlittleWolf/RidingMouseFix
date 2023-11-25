@@ -1,0 +1,24 @@
+{
+	"schemaVersion": 1,
+	"id": "ridingmousefix",
+	"version": "${version}",
+	"name": "Riding Mouse Fix",
+	"description": "Fixes the sluggishness of the mouse when riding on entities.",
+	"authors": [
+		"JustAlittleWolf"
+	],
+	"contact": {
+		"sources": "https://github.com/JustAlittleWolf/MinecartMouseFix"
+	},
+	"license": "MIT",
+	"icon": "assets/ridingmousefix/icon.png",
+	"environment": "client",
+	"mixins": [
+		"ridingmousefix.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.0",
+		"minecraft": "~1.20",
+		"java": ">=17"
+	}
+}
